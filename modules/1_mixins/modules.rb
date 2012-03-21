@@ -9,7 +9,6 @@ end
 class Loan
   include Loanable
   attr_accessor :amount_paid
-
 end
 
 class Bond
